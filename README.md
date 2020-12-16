@@ -1,8 +1,4 @@
-### Hi there 👋
-
-I'm a software engineer, mostly working with Javascript tech stack.
-
-### Hey there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/setyawan_asep">
   <img align="left" alt="Asep Setiyawan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
